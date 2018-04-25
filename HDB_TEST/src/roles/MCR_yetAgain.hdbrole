@@ -4,7 +4,7 @@
 		"schema_privileges": [{
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS METADATA",
-		    			  "SELECT",
+		    			  "DELETE",
 		    			  "INSERT",
 		    			  "EXECUTE"
 		   ]
